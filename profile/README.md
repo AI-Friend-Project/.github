@@ -1,5 +1,5 @@
 # AI Friend 
----
+
 ### What is AI Friend?
 An application that identifies users' interests while talking to chatbots and matches people with similar interests.
 
@@ -14,10 +14,10 @@ An application that identifies users' interests while talking to chatbots and ma
 # Key Features
 Detailed features and screens are described later.
 - Chat with AI
-<img width="544" alt="image" src="https://user-images.githubusercontent.com/65584699/207515482-cd0a6a60-05bf-4111-b4a9-406f2c3b5626.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/65584699/207515482-cd0a6a60-05bf-4111-b4a9-406f2c3b5626.png">
 
 - Identify and recommend interests
-<img width="317" alt="image" src="https://user-images.githubusercontent.com/65584699/207515865-80195b02-4503-4101-abd7-556f33781532.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/65584699/207515865-80195b02-4503-4101-abd7-556f33781532.png">
 
 
 # Used AI Model
@@ -44,13 +44,6 @@ Calculate word similarity between keywords and categories, Connect one category 
 |__AI__| GPT-2, KeyBERT, Word2Vec|
 |__Others__| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"> |
 
-| library | version |
-| ------ | ------ |
-| python | 3.10.9 |
-| kotlin | |
-| GPT-2 |  |
-| KeyBERT |  |
-| Word2Vector | |
 
 ### Members - _TEAM 4_
 | Name | Field |
