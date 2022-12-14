@@ -26,8 +26,10 @@ We used **AIHub**'s topic-specific text-daily conversation data set.
 ## GPT-2
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65584699/207517716-49d0bfd7-9422-46c7-afff-246298a9cb5a.gif)
 
+</br>
 ## KeyBERT
 Extract keywords from users' chat content
+</br>
 ## Word2Vec
 Calculate word similarity between keywords and categories, Connect one category with the highest similarity to the user
 </br>
@@ -37,9 +39,9 @@ Calculate word similarity between keywords and categories, Connect one category 
 ## Tech Stack
 | Field | |
 |----------|:-------------:|
-|__Client__| <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=black">|
+|__Client__| <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">|
 |__Backend & Server__| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> |
-|__DB__| <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"> |
+|__DB__| <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> |
 |__AI__| GPT-2, KeyBERT, Word2Vec|
 |__Others__| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"> |
 
