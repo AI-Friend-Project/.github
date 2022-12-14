@@ -12,8 +12,10 @@ An application that identifies users' interests while talking to chatbots and ma
 <img width="655" alt="image" src="https://user-images.githubusercontent.com/65584699/207514631-0d3b7497-d245-4488-9daf-0ba4ac0ce884.png">
 
 # App Flow
-![app Flow](https://user-images.githubusercontent.com/65584699/207540029-72d17922-d7aa-4056-acc1-0ebe41dfb9ea.png)
-
+<!-- ![app Flow](https://user-images.githubusercontent.com/65584699/207540029-72d17922-d7aa-4056-acc1-0ebe41dfb9ea.png)
+ -->
+ <img width="655" alt="image" src="https://user-images.githubusercontent.com/65584699/207540029-72d17922-d7aa-4056-acc1-0ebe41dfb9ea.png">
+ 
 # Key Features
 Detailed features and screens are described later.
 - Chat with AI
