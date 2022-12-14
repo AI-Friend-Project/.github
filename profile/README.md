@@ -9,15 +9,15 @@ An application that identifies users' interests while talking to chatbots and ma
 
 
 # System Architecture
-<img width="855" alt="image" src="https://user-images.githubusercontent.com/65584699/207514631-0d3b7497-d245-4488-9daf-0ba4ac0ce884.png">
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/65584699/207514631-0d3b7497-d245-4488-9daf-0ba4ac0ce884.png">
 
 # Key Features
 Detailed features and screens are described later.
 - Chat with AI
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/65584699/207515482-cd0a6a60-05bf-4111-b4a9-406f2c3b5626.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/65584699/207515482-cd0a6a60-05bf-4111-b4a9-406f2c3b5626.png">
 
 - Identify and recommend interests
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/65584699/207515865-80195b02-4503-4101-abd7-556f33781532.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/65584699/207515865-80195b02-4503-4101-abd7-556f33781532.png">
 
 
 # Used AI Model
