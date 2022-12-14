@@ -10,7 +10,7 @@ An application that identifies users' interests while talking to chatbots and ma
 
 # System Architecture
 <!-- <img width="655" alt="image" src="https://user-images.githubusercontent.com/65584699/207514631-0d3b7497-d245-4488-9daf-0ba4ac0ce884.png"> -->
-<img width="655" alt="image" src="https://user-images.githubusercontent.com/65584699/207620519-f3f1cbd5-7b76-4146-bb06-f04b20d83873.png">
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/65584699/207621532-65b62380-c6f1-4331-ac4e-b97095ea3bdb.png">
 
 # App Flow
 <!-- ![app Flow](https://user-images.githubusercontent.com/65584699/207540029-72d17922-d7aa-4056-acc1-0ebe41dfb9ea.png)
