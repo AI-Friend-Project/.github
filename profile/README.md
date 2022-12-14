@@ -26,16 +26,17 @@ We used **AIHub**'s topic-specific text-daily conversation data set.
 ## GPT-2
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65584699/207517716-49d0bfd7-9422-46c7-afff-246298a9cb5a.gif)
 
-## KeyBERT, Word2Vec
-#### - KeyBERT
+</br>
+## KeyBERT
 Extract keywords from users' chat content
-
-#### - Word2Vec
+</br>
+## Word2Vec
 Calculate word similarity between keywords and categories, Connect one category with the highest similarity to the user
+</br>
 
+---
 
-
-## Requirements
+## Tech Stack
 | Field | |
 |----------|:-------------:|
 |__Client__| <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=black">|
@@ -45,7 +46,7 @@ Calculate word similarity between keywords and categories, Connect one category 
 |__Others__| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"> |
 
 
-### Members - _TEAM 4_
+### Members 
 | Name | Field |
 | ------ | ------ |
 | 곽민선 | |
