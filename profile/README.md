@@ -4,7 +4,7 @@
 An application that identifies users' interests while talking to chatbots and matches people with similar interests.
 
 > AI-Friend can
->> be a good friend for people who lonely and have difficulty in relationships.
+>> be a good friend for people who lonely and have difficulty in relationships.</br>
 >> help users easily make new relationships with analysis and expansion.
 
 
