@@ -26,10 +26,9 @@ We used **AIHub**'s topic-specific text-daily conversation data set.
 ## GPT-2
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65584699/207517716-49d0bfd7-9422-46c7-afff-246298a9cb5a.gif)
 
-</br>
+
 ## KeyBERT
 Extract keywords from users' chat content
-</br>
 ## Word2Vec
 Calculate word similarity between keywords and categories, Connect one category with the highest similarity to the user
 </br>
