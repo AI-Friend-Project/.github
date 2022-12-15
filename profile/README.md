@@ -54,7 +54,7 @@ Calculate word similarity between keywords and categories, Connect one category 
 ### Members 
 | Name | Field |
 | ------ | ------ |
-| 곽민선 | |
+| 곽민선 | Data Search |
 | 이가현 | Client, Word2Vec | 
 | 이예준 | Backend & Server, GPT-2|
 | 이지윤 | Client, KeyBERT |
